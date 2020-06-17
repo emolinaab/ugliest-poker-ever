@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Background Component should render correctly 1`] = `
+<section
+  className="sc-AxjAm CGLrY"
+/>
+`;
