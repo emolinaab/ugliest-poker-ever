@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component should render correctly 1`] = `
+.c0 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  border: 2px solid #a8d90d;
+  border-radius: 8px;
+  background: linear-gradient(0deg,#308a00 1%,#c3e80e 80%);
+  color: #1b2f04;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 10px 0;
+  outline: none;
+  padding: 5px 30px;
+}
+
+<button
+  className="c0"
+/>
+`;

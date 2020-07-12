@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Component should render correctly 1`] = `
+.c0 {
+  background: #3ea300;
+  border: none;
+  color: #1b2f04;
+  width: 100%;
+  text-align: center;
+  padding: 4px;
+  margin: 8px 0;
+  outline: none;
+  font-weight: bold;
+}
+
+.c0::-webkit-input-placeholder {
+  color: #1b2f04;
+  font-weight: bold;
+}
+
+.c0::-moz-placeholder {
+  color: #1b2f04;
+  font-weight: bold;
+}
+
+.c0:-ms-input-placeholder {
+  color: #1b2f04;
+  font-weight: bold;
+}
+
+.c0::placeholder {
+  color: #1b2f04;
+  font-weight: bold;
+}
+
+<input
+  className="c0"
+/>
+`;

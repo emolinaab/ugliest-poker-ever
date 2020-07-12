@@ -1,3 +1,26 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Register Component should render correctly 1`] = `<section />`;
+exports[`Register Component should render correctly 1`] = `
+<Panel>
+  <styled.input
+    name="email"
+    placeholder="E-mail"
+  />
+  <styled.input
+    name="uid"
+    placeholder="Nombre de usuario"
+  />
+  <styled.input
+    name="passwd"
+    placeholder="Contraseña"
+  />
+  <styled.button>
+    Registrar
+  </styled.button>
+  <Styled(Link)
+    to="/login"
+  >
+    Ya estas registrado?, ingresa ahora!
+  </Styled(Link)>
+</Panel>
+`;

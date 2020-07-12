@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyLink Component should render correctly 1`] = `
+.c0 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  color: #1b2f04;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+<Link
+  className="c0"
+  theme={
+    Object {
+      "colors": Object {
+        "bahia": "#a8d90d",
+        "bahiaGradient": "linear-gradient(0deg, #308a00 1%, #c3e80e 80%)",
+        "blackcurrant": "#27172F",
+        "christi": "#4fb30c",
+        "indigo": "#4A0968",
+        "limeade": "#3ea300",
+        "milanoRed": "#bd2d02",
+        "pineTree": "#1b2f04",
+      },
+    }
+  }
+  to={[Function]}
+/>
+`;

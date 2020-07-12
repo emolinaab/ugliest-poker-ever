@@ -4,8 +4,14 @@ import { ThemeProvider } from 'styled-components';
 
 export const theme = {
   colors: {
-    indigo: '#4A0968',
+    bahia: '#a8d90d',
+    bahiaGradient: 'linear-gradient(0deg, #308a00 1%, #c3e80e 80%)',
     blackcurrant: '#27172F',
+    christi: '#4fb30c',
+    indigo: '#4A0968',
+    milanoRed: '#bd2d02',
+    pineTree: '#1b2f04',
+    limeade: '#3ea300',
   },
 };
 
